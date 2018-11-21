@@ -1,1 +1,1 @@
-"# node-modules-boilerplate" 
+"# node-packages-boilerplate" 
